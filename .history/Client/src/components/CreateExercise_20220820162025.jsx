@@ -18,7 +18,7 @@ export default class CreateExercise extends Component {
       duration: 0,
       date: new Date(),
       users: [],
-      baseUri : "https://exercise-tracker-by-sahith.herokuapp.com"
+      baseUri : import.meta.env.VITE_BASE_URI
     };
   }
 
