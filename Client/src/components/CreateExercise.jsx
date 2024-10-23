@@ -18,7 +18,7 @@ export default class CreateExercise extends Component {
       duration: 0,
       date: new Date(),
       users: [],
-      baseUri : "https://exercise-tracker-by-sahith.herokuapp.com"
+      baseUri : "https://exercise-tracker-bew6.onrender.com"
     };
   }
 

@@ -9,7 +9,7 @@ export default class CreateUser extends Component {
 
     this.state = {
       username: "",
-      baseUri : "https://exercise-tracker-by-sahith.herokuapp.com"
+      baseUri : "https://exercise-tracker-bew6.onrender.com"
     };
   }
 

@@ -7,7 +7,7 @@ export default class ExercisesList extends Component {
     this.deleteExercise = this.deleteExercise.bind(this);
     this.state = { 
       exerciseList: [],
-      baseUri : "https://exercise-tracker-by-sahith.herokuapp.com"
+      baseUri : "https://exercise-tracker-bew6.onrender.com"
     };
   }
   componentDidMount() {
